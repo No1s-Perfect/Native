@@ -1,2 +1,2 @@
-# Native
+# React Native
 Learning React-Native
